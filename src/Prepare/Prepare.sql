@@ -22,19 +22,30 @@ FROM `qwiklabs-gcp-01-28c376c2a71a.terrorism_dataset.terrorism_table`
 SELECT COUNT(eventid)
 FROM `qwiklabs-gcp-01-28c376c2a71a.terrorism_dataset.terrorism_table`
 
--- Returns 201183
-SELECT COUNT(eventid) AS AttackCount, country_txt AS Country
+-- checking totatl number of rows. Returns 201183
+SELECT COUNT(eventid)
+FROM `qwiklabs-gcp-01-28c376c2a71a.terrorism_dataset.terrorism_table`   
+SELECT COUNT(eventid)
 FROM `qwiklabs-gcp-01-28c376c2a71a.terrorism_dataset.terrorism_table`
-GROUP BY country_txt
-ORDER BY COUNT(eventid) DESC;
 
 -- As the two queries return the same number of rows counts, there is no duplicates in the database
+
+
+
+
 
 
 
 -- PART 2
 
 -- Drawing some basic insights
+
+-- Query to group the number of times a each country has been attacked, in descending order
+SELECT COUNT(eventid) AS AttackCount, country_txt AS Country
+FROM `qwiklabs-gcp-01-28c376c2a71a.terrorism_dataset.terrorism_table`
+GROUP BY country_txt
+ORDER BY COUNT(eventid) DESC;
+
 
 -- Query to group together distinct attack_types and each of their counts in descending order
 SELECT COUNT(eventid) AS AttackCount, attacktype1_txt AS AttackType
