@@ -2,7 +2,8 @@
 
 ####  Analysed by **SAMARPAN DAS**
 
-![SpecialForces](https://cutewallpaper.org/21/special-forces-wallpapers/Most-viewed-Special-Forces-wallpapers-4K-Wallpapers.jpg)
+![SpecialForces](https://user-images.githubusercontent.com/55103824/123479237-45012d00-d61e-11eb-94ad-17c46eec3a64.jpg)
+
 
 
 
@@ -11,9 +12,10 @@
 
 
 ### **Introduction**
+
 ### 1. The Global Terrorism Database
 
-![GTD](https://pbs.twimg.com/profile_images/1205582571968614400/nWSCCQhR_400x400.jpg)
+![gtb_icon](https://user-images.githubusercontent.com/55103824/123479323-6235fb80-d61e-11eb-8d10-ef12b9ab7ed2.jpg)
 
 The Global Terrorism Database [GTD](https://www.start.umd.edu/gtd/) is an open-source database including information on terrorist attacks around the world from 1970 through 2019. The GTD includes systematic data on domestic as well as international terrorist incidents that have occurred during this time period and now includes more than 200,000 attacks. The database is maintained by researchers at the National Consortium for the Study of Terrorism and Responses to Terrorism [START](https://www.start.umd.edu), headquartered at the University of Maryland.
 
