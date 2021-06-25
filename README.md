@@ -1,7 +1,11 @@
 # **GLOBAL TERRORISM ANALYSIS**
 
 ####  Analysed by **SAMARPAN DAS**
-![SpecialForces](https://wallpaperaccess.com/full/296703.jpg)
+
+![SpecialForces](https://cutewallpaper.org/21/special-forces-wallpapers/Most-viewed-Special-Forces-wallpapers-4K-Wallpapers.jpg)
+
+
+
 ---
 
 
@@ -36,3 +40,6 @@ Note : You need to login to get access to the database
 * Perform data [pre-processing](https://github.com/SamarpanDas/Global-Terrorism-Analysis/blob/main/project/2.%20Process/data_preprocessing.ipynb) to manipulate the data for analysis and draft out targetted tabels for analysis
 * [Analyze](https://github.com/SamarpanDas/Global-Terrorism-Analysis/blob/main/project/3.%20Analysis%20and%20Visualisations/data_analysis.ipynb) the data more deeply and extract insights
 * Visualize the data using Python and Tableau. Check out the Tableau Workbook on [Global Terrorism Analysis By Samarpan Das](https://public.tableau.com/profile/samarpan.das#!/)
+
+---
+
