@@ -45,3 +45,17 @@ Note : You need to login to get access to the database
 
 ---
 
+### Glimpse of prime findings
+1. 28.04 % of all events and a staggering 36.47 % of total casualties have been exclusive from the Middle East and North African region
+2. Iraq has been the county with highest number of attacks and 21.87% of all casualties have been from Iraq. 
+3. The huge rise in terror attacks in Iraq begun during 2004-2005
+4. The analysis supports the result that count of attacks and count of casualties are directly proportional
+5. It has been seen that explosives have always been the weapon of choice for terror organisations
+6. Private Citizens and military have always been the biggest targets for terror organisations
+7. It can be concluded that attacks by Taliban and Houthi Extremists(Ansar Allah) are on a arise and organisations like Islamic State of Iraq (ISI) are dying down
+8. Among Attack types, hijacking and hostage takings have caused the highest average of casualties per attacks. 
+9. Al-Qaida has been the most lethal terror organisation, they have ended up causing 468.3 casualties per attacks.
+10. Baghdad has been the most attacked city in the world, 7 of the 26 cities are in Iraq and 4 of the 26 cities are from Pakistan
+11. India is the country which have faced attacks from the highest number of terror organisations, followed by the US and Italy. 
+---
+
