@@ -45,7 +45,7 @@ Note : You need to login to get access to the database
 
 ---
 
-### Glimpses of the Prime Findings
+### **Glimpses of the Prime Findings**
 1. 28.04 % of all events and a staggering 36.47 % of total casualties have been exclusive from the Middle East and North African region.
 2. Iraq has been the county with highest number of attacks and 21.87% of all casualties have been from Iraq. 
 3. The huge rise in terror attacks in Iraq begun during 2004-2005.
